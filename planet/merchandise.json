@@ -1,0 +1,377 @@
+[
+  {
+    "merchandise_name": "Towellian weed",
+    "value": 50,
+    "number": 1
+  },
+  {
+    "merchandise_name": "grapefruits",
+    "value": 5,
+    "number": 2
+  },
+  {
+    "merchandise_name": "topazes",
+    "value": 100,
+    "number": 3
+  },
+  {
+    "merchandise_name": "clean memes",
+    "value": 300,
+    "number": 4
+  },
+  {
+    "merchandise_name": "dank memes",
+    "value": 400,
+    "number": 5
+  },
+  {
+    "merchandise_name": "diamonds",
+    "value": 1000,
+    "number": 6
+  },
+  {
+    "merchandise_name": "MailFusionese shrooms",
+    "value": 35,
+    "number": 7
+  },
+  {
+    "merchandise_name": "Postoffician shrooms",
+    "value": 43,
+    "number": 8
+  },
+  {
+    "merchandise_name": "nightshade",
+    "value": 3,
+    "number": 9
+  },
+  {
+    "merchandise_name": "Legendary Earth Steel",
+    "value": 250,
+    "number": 10
+  },
+  {
+    "merchandise_name": "ShoesMonsteran artifacts",
+    "value": 3000,
+    "number": 11
+  },
+  {
+    "merchandise_name": "CatDislikese dragon skin",
+    "value": 1225,
+    "number": 12
+  },
+  {
+    "merchandise_name": "limes",
+    "value": 4,
+    "number": 13
+  },
+  {
+    "merchandise_name": "pears",
+    "value": 4,
+    "number": 14
+  },
+  {
+    "merchandise_name": "durians",
+    "value": 7,
+    "number": 15
+  },
+  {
+    "merchandise_name": "rattlesnakes",
+    "value": 27,
+    "number": 16
+  },
+  {
+    "merchandise_name": "quality cigars",
+    "value": 123,
+    "number": 17
+  },
+  {
+    "merchandise_name": "balsa wood",
+    "value": 5,
+    "number": 18
+  },
+  {
+    "merchandise_name": "RunningDog rubber",
+    "value": 15,
+    "number": 19
+  },
+  {
+    "merchandise_name": "tires",
+    "value": 12,
+    "number": 20
+  },
+  {
+    "merchandise_name": "IcecreanconeKittian teapots",
+    "value": 55,
+    "number": 21
+  },
+  {
+    "merchandise_name": "hockey masks",
+    "value": 28,
+    "number": 22
+  },
+  {
+    "merchandise_name": "marshmellows",
+    "value": 3,
+    "number": 23
+  },
+  {
+    "merchandise_name": "baseball bats",
+    "value": 38,
+    "number": 24
+  },
+  {
+    "merchandise_name": "adamant",
+    "value": 355,
+    "number": 25
+  },
+  {
+    "merchandise_name": "mithril",
+    "value": 756,
+    "number": 26
+  },
+  {
+    "merchandise_name": "aether",
+    "value": 304,
+    "number": 27
+  },
+  {
+    "merchandise_name": "celestial bronze",
+    "value": 250,
+    "number": 28
+  },
+  {
+    "merchandise_name": "imperial gold",
+    "value": 350,
+    "number": 29
+  },
+  {
+    "merchandise_name": "dalekanium",
+    "value": 75,
+    "number": 30
+  },
+  {
+    "merchandise_name": "Element Zero",
+    "value": 1000,
+    "number": 31
+  },
+  {
+    "merchandise_name": "Kryptonite",
+    "value": 123,
+    "number": 32
+  },
+  {
+    "merchandise_name": "phostlite",
+    "value": 38,
+    "number": 33
+  },
+  {
+    "merchandise_name": "redstone",
+    "value": 54,
+    "number": 34
+  },
+  {
+    "merchandise_name": "netherrack",
+    "value": 5,
+    "number": 35
+  },
+  {
+    "merchandise_name": "fallen stars",
+    "value": 790,
+    "number": 36
+  },
+  {
+    "merchandise_name": "M&Ms",
+    "value": 3,
+    "number": 37
+  },
+  {
+    "merchandise_name": "space titanium",
+    "value": 45,
+    "number": 38
+  },
+  {
+    "merchandise_name": "stygian iron",
+    "value": 450,
+    "number": 39
+  },
+  {
+    "merchandise_name": "supermanium",
+    "value": 314,
+    "number": 40
+  },
+  {
+    "merchandise_name": "Skittles",
+    "value": 3,
+    "number": 41
+  },
+  {
+    "merchandise_name": "thirium",
+    "value": 50,
+    "number": 42
+  },
+  {
+    "merchandise_name": "hoverboards",
+    "value": 240,
+    "number": 43
+  },
+  {
+    "merchandise_name": "tritanium",
+    "value": 55,
+    "number": 44
+  },
+  {
+    "merchandise_name": "durasteel",
+    "value": 30,
+    "number": 45
+  },
+  {
+    "merchandise_name": "cortosis",
+    "value": 475,
+    "number": 46
+  },
+  {
+    "merchandise_name": "popcorn",
+    "value": 3,
+    "number": 47
+  },
+  {
+    "merchandise_name": "ansible receivers",
+    "value": 555,
+    "number": 48
+  },
+  {
+    "merchandise_name": "unobtainium",
+    "value": 690,
+    "number": 49
+  },
+  {
+    "merchandise_name": "verterium cortenide",
+    "value": 300,
+    "number": 50
+  },
+  {
+    "merchandise_name": "vibranium",
+    "value": 899,
+    "number": 51
+  },
+  {
+    "merchandise_name": "tachyon drives",
+    "value": 999,
+    "number": 52
+  },
+  {
+    "merchandise_name": "pym particles",
+    "value": 345,
+    "number": 53
+  },
+  {
+    "merchandise_name": "phrik alloy",
+    "value": 199,
+    "number": 54
+  },
+  {
+    "merchandise_name": "beskar",
+    "value": 1550,
+    "number": 55
+  },
+  {
+    "merchandise_name": "kyber crystals",
+    "value": 1230,
+    "number": 56
+  },
+  {
+    "merchandise_name": "chromite",
+    "value": 560,
+    "number": 57
+  },
+  {
+    "merchandise_name": "cheese",
+    "value": 5,
+    "number": 58
+  },
+  {
+    "merchandise_name": "krabby patties",
+    "value": 7,
+    "number": 59
+  },
+  {
+    "merchandise_name": "scooby snacks",
+    "value": 4,
+    "number": 60
+  },
+  {
+    "merchandise_name": "everlasting gobstoppers",
+    "value": 15,
+    "number": 61
+  },
+  {
+    "merchandise_name": "ambrosia",
+    "value": 50,
+    "number": 62
+  },
+  {
+    "merchandise_name": "Kool-Aid",
+    "value": 4,
+    "number": 63
+  },
+  {
+    "merchandise_name": "roses",
+    "value": 8,
+    "number": 64
+  },
+  {
+    "merchandise_name": "butterbeer",
+    "value": 4,
+    "number": 65
+  },
+  {
+    "merchandise_name": "pan-galactic gargle blasters",
+    "value": 15,
+    "number": 66
+  },
+  {
+    "merchandise_name": "improbabilty drive",
+    "value": 1670,
+    "number": 67
+  },
+  {
+    "merchandise_name": "TARDISes (TARDI?)",
+    "value": 3000,
+    "number": 68
+  },
+  {
+    "merchandise_name": "DeLoreans",
+    "value": 4500,
+    "number": 69
+  },
+  {
+    "merchandise_name": "WABAC machines",
+    "value": 2560,
+    "number": 70
+  },
+  {
+    "merchandise_name": "androids",
+    "value": 1000,
+    "number": 71
+  },
+  {
+    "merchandise_name": "exoskeletons",
+    "value": 650,
+    "number": 72
+  },
+  {
+    "merchandise_name": "tractor beams",
+    "value": 521,
+    "number": 73
+  },
+  {
+    "merchandise_name": "repulsor beams",
+    "value": 521,
+    "number": 74
+  },
+  {
+    "merchandise_name": "lightsabers",
+    "value": 4050,
+    "number": 75
+  }
+]

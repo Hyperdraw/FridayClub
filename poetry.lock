@@ -1,0 +1,168 @@
+[[package]]
+category = "main"
+description = "A cross-platform package to replace curses (mouse/keyboard input & text colours/positioning) and create ASCII animations"
+name = "asciimatics"
+optional = false
+python-versions = "*"
+version = "1.11.0"
+
+[package.dependencies]
+Pillow = ">=2.7.0"
+future = "*"
+pyfiglet = ">=0.7.2"
+pypiwin32 = "*"
+wcwidth = "*"
+
+[[package]]
+category = "main"
+description = "Screen-scraping library"
+name = "beautifulsoup4"
+optional = false
+python-versions = "*"
+version = "4.9.1"
+
+[package.dependencies]
+soupsieve = [">1.2", "<2.0"]
+
+[[package]]
+category = "main"
+description = "Composable command line interface toolkit"
+name = "click"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
+version = "7.1.2"
+
+[[package]]
+category = "main"
+description = "Clean single-source support for Python 3 and 2"
+name = "future"
+optional = false
+python-versions = ">=2.6, !=3.0.*, !=3.1.*, !=3.2.*"
+version = "0.18.2"
+
+[[package]]
+category = "main"
+description = "Projeto de Exemplo para curso no Hotel Urbano"
+name = "ghhu"
+optional = false
+python-versions = "*"
+version = "0.1"
+
+[package.dependencies]
+requests = "2.10.0"
+
+[[package]]
+category = "main"
+description = "gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate text-to-speech API"
+name = "gtts"
+optional = false
+python-versions = ">=2.7"
+version = "2.1.1"
+
+[package.dependencies]
+beautifulsoup4 = "*"
+click = "*"
+gtts-token = ">=1.1.3"
+requests = "*"
+six = "*"
+
+[[package]]
+category = "main"
+description = "Calculates a token to run the Google Translate text to speech"
+name = "gtts-token"
+optional = false
+python-versions = "*"
+version = "1.1.3"
+
+[package.dependencies]
+requests = "*"
+
+[[package]]
+category = "main"
+description = "Python Imaging Library (Fork)"
+name = "pillow"
+optional = false
+python-versions = ">=3.5"
+version = "7.1.2"
+
+[[package]]
+category = "main"
+description = "Pure-python FIGlet implementation"
+name = "pyfiglet"
+optional = false
+python-versions = "*"
+version = "0.8.post1"
+
+[[package]]
+category = "main"
+description = ""
+marker = "sys_platform == \"win32\""
+name = "pypiwin32"
+optional = false
+python-versions = "*"
+version = "223"
+
+[package.dependencies]
+pywin32 = ">=223"
+
+[[package]]
+category = "main"
+description = "Python for Window Extensions"
+marker = "sys_platform == \"win32\""
+name = "pywin32"
+optional = false
+python-versions = "*"
+version = "227"
+
+[[package]]
+category = "main"
+description = "Python HTTP for Humans."
+name = "requests"
+optional = false
+python-versions = "*"
+version = "2.10.0"
+
+[[package]]
+category = "main"
+description = "Python 2 and 3 compatibility utilities"
+name = "six"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*"
+version = "1.15.0"
+
+[[package]]
+category = "main"
+description = "A modern CSS selector implementation for Beautiful Soup."
+name = "soupsieve"
+optional = false
+python-versions = "*"
+version = "1.9.6"
+
+[[package]]
+category = "main"
+description = "Measures the displayed width of unicode strings in a terminal"
+name = "wcwidth"
+optional = false
+python-versions = "*"
+version = "0.2.3"
+
+[metadata]
+content-hash = "8991cdae2d5826303d4f4a952483af06b2bd118713ea2555ef6a69d1c841df25"
+python-versions = "^3.8"
+
+[metadata.hashes]
+asciimatics = ["1d0871133c95fa15c603d471ebb77e39b3389877e2ff2ad5ab3bc906d81b5e8c", "6c7ad130a0663ecb1b3a731b82c51d6662f1d2c4760de2b8ffc9c1faba775360"]
+beautifulsoup4 = ["73cc4d115b96f79c7d77c1c7f7a0a8d4c57860d1041df407dd1aae7f07a77fd7", "a6237df3c32ccfaee4fd201c8f5f9d9df619b93121d01353a64a73ce8c6ef9a8", "e718f2342e2e099b640a34ab782407b7b676f47ee272d6739e60b8ea23829f2c"]
+click = ["d2b5255c7c6349bc1bd1e59e08cd12acbbd63ce649f2588755783aa94dfb6b1a", "dacca89f4bfadd5de3d7489b7c8a566eee0d3676333fbb50030263894c38c0dc"]
+future = ["b1bead90b70cf6ec3f0710ae53a525360fa360d306a86583adc6bf83a4db537d"]
+ghhu = ["43e133a8118754dc5a4f83ec96f431f6d6f6e33f5bc5bb5da1b99abfd42fb3c7"]
+gtts = ["2ca2e880b560767d4ec74281d996ffdeda9012abc99968595b615e309a90cffe", "e07e1729ca6d26c46d687bc29c321079a90719e1edb1ac25e0c229cd55b44539", "feaebc9cf64138d68a05b965f2cdb9ea8ee962bbb8237d91c621bf910fc1123c"]
+gtts-token = ["9d6819a85b813f235397ef931ad4b680f03d843c9b2a9e74dd95175a4bc012c5"]
+pillow = ["04766c4930c174b46fd72d450674612ab44cca977ebbcc2dde722c6933290107", "0e2a3bceb0fd4e0cb17192ae506d5f082b309ffe5fc370a5667959c9b2f85fa3", "0f01e63c34f0e1e2580cc0b24e86a5ccbbfa8830909a52ee17624c4193224cd9", "12e4bad6bddd8546a2f9771485c7e3d2b546b458ae8ff79621214119ac244523", "1f694e28c169655c50bb89a3fa07f3b854d71eb47f50783621de813979ba87f3", "3d25dd8d688f7318dca6d8cd4f962a360ee40346c15893ae3b95c061cdbc4079", "4b02b9c27fad2054932e89f39703646d0c543f21d3cc5b8e05434215121c28cd", "70e3e0d99a0dcda66283a185f80697a9b08806963c6149c8e6c5f452b2aa59c0", "9744350687459234867cbebfe9df8f35ef9e1538f3e729adbd8fde0761adb705", "a0b49960110bc6ff5fead46013bcb8825d101026d466f3a4de3476defe0fb0dd", "ae2b270f9a0b8822b98655cb3a59cdb1bd54a34807c6c56b76dd2e786c3b7db3", "b37bb3bd35edf53125b0ff257822afa6962649995cbdfde2791ddb62b239f891", "b532bcc2f008e96fd9241177ec580829dee817b090532f43e54074ecffdcd97f", "b67a6c47ed963c709ed24566daa3f95a18f07d3831334da570c71da53d97d088", "b943e71c2065ade6fef223358e56c167fc6ce31c50bc7a02dd5c17ee4338e8ac", "ccc9ad2460eb5bee5642eaf75a0438d7f8887d484490d5117b98edd7f33118b7", "d23e2aa9b969cf9c26edfb4b56307792b8b374202810bd949effd1c6e11ebd6d", "eaa83729eab9c60884f362ada982d3a06beaa6cc8b084cf9f76cae7739481dfa", "ee94fce8d003ac9fd206496f2707efe9eadcb278d94c271f129ab36aa7181344", "f455efb7a98557412dc6f8e463c1faf1f1911ec2432059fa3e582b6000fc90e2", "f46e0e024346e1474083c729d50de909974237c72daca05393ee32389dabe457", "f54be399340aa602066adb63a86a6a5d4f395adfdd9da2b9a0162ea808c7b276", "f784aad988f12c80aacfa5b381ec21fd3f38f851720f652b9f33facc5101cf4d"]
+pyfiglet = ["c6c2321755d09267b438ec7b936825a4910fec696292139e664ca8670e103639", "d555bcea17fbeaf70eaefa48bb119352487e629c9b56f30f383e2c62dd67a01c"]
+pypiwin32 = ["67adf399debc1d5d14dffc1ab5acacb800da569754fafdc576b2a039485aa775", "71be40c1fbd28594214ecaecb58e7aa8b708eabfa0125c8a109ebd51edbd776a"]
+pywin32 = ["300a2db938e98c3e7e2093e4491439e62287d0d493fe07cce110db070b54c0be", "31f88a89139cb2adc40f8f0e65ee56a8c585f629974f9e07622ba80199057511", "371fcc39416d736401f0274dd64c2302728c9e034808e37381b5e1b22be4a6b0", "47a3c7551376a865dd8d095a98deba954a98f326c6fe3c72d8726ca6e6b15507", "4cdad3e84191194ea6d0dd1b1b9bdda574ff563177d2adf2b4efec2a244fa116", "7c1ae32c489dc012930787f06244426f8356e129184a02c25aef163917ce158e", "7f18199fbf29ca99dff10e1f09451582ae9e372a892ff03a28528a24d55875bc", "9b31e009564fb95db160f154e2aa195ed66bcc4c058ed72850d047141b36f3a2", "a929a4af626e530383a579431b70e512e736e9588106715215bf685a3ea508d4", "c054c52ba46e7eb6b7d7dfae4dbd987a1bb48ee86debe3f245a2884ece46e295", "f27cec5e7f588c3d1051651830ecc00294f90728d19c3bf6916e6dba93ea357c", "f4c5be1a293bae0076d93c88f37ee8da68136744588bc5e2be2f299a34ceb7aa"]
+requests = ["09bc1b5f3a56cd8c48d433213a8cba51a67d12936568f73b5f1793fcb0c0979e", "63f1815788157130cee16a933b2ee184038e975f0017306d723ac326b5525b54"]
+six = ["30639c035cdb23534cd4aa2dd52c3bf48f06e5f4a941509c8bafd8ce11080259", "8b74bedcbbbaca38ff6d7491d76f2b06b3592611af620f8426e82dddb04a5ced"]
+soupsieve = ["7985bacc98c34923a439967c1a602dc4f1e15f923b6fcf02344184f86cc7efaa", "feb1e937fa26a69e08436aad4a9037cd7e1d4c7212909502ba30701247ff8abd"]
+wcwidth = ["980fbf4f3c196c0f329cdcd1e84c554d6a211f18e252e525a0cf4223154a41d6", "edbc2b718b4db6cdf393eefe3a420183947d6aa312505ce6754516f458ff8830"]
